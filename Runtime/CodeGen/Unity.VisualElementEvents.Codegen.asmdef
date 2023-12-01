@@ -1,0 +1,23 @@
+{
+    "name": "Unity.VisualElementEvents.Codegen",
+    "rootNamespace": "BsiGame.UI.UIElements",
+    "references": [
+        "GUID:d76e1ac38a436a24f8296e20ebb22fd9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.Cecil.dll",
+        "Mono.Cecil.Mdb.dll",
+        "Mono.Cecil.Pdb.dll",
+        "Mono.Cecil.Rocks.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

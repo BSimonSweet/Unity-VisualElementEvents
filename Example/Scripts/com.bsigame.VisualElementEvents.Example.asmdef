@@ -1,0 +1,16 @@
+{
+    "name": "com.bsigame.VisualElementEvents.Example",
+    "rootNamespace": "BsiGame.Example",
+    "references": [
+        "GUID:d76e1ac38a436a24f8296e20ebb22fd9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "com.bsigame.visualelementevents",
+  "version": "1.0.0",
+  "displayName": "VisualElement Events",
+  "unity": "2022.3",
+  "unityReleases": "0b3",
+  "unityRelease": "7f1",
+  "type": "library",
+  "dependencies": {
+    "com.unity.nuget.mono-cecil": "1.10.2"
+  },
+  "description": "Add ChildChangeEvent to VisualElement"
+}
